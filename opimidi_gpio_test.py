@@ -11,3 +11,5 @@ for x in range(10):
     print("High")
     GPIO.output(channel,GPIO.HIGH)
     time.sleep(.2)
+print("Low")
+GPIO.output(channel,GPIO.LOW)

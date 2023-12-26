@@ -1,7 +1,7 @@
 # Install prerequisits for OPI Midi functionality
 # Make sure python3 and pip are installed
 # Make sure apt is updated and we have the latest package lists before we start
-# This whole script takes a while on aOPi zero - maybe 30 minutes
+# This whole script takes a while on aOPi zero - maybe 10 minutes
 # Remember to 'chmod u+x opimidi_setup.sh' tobe able to run this file 
 # then 'bash opimidi_setup.sh'
 

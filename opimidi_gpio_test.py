@@ -1,6 +1,6 @@
 import OPi.GPIO as GPIO
 import time
-channel="PA01"
+channel="PA14"
 GPIO.setmode(GPIO.SUNXI)
 print(GPIO.getmode())
 GPIO.setup(channel,GPIO.OUT,GPIO.LOW)

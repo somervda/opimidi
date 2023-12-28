@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import OPi.GPIO as GPIO
 import time
 channel="PA14"

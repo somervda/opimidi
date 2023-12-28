@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # Install prerequisits for OPI Midi functionality
 # Make sure python3 and pip are installed
 # Make sure apt is updated and we have the latest package lists before we start
